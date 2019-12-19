@@ -1,11 +1,11 @@
 class School
-  attr_accessor :school
+  attr_accessor :school_name, :roster, :grade
   
   def initialize(school)
     @school = school
   end
   
   def school
-    @shool = "Bayside High School"
+    @shool = school_name
   end
 end
