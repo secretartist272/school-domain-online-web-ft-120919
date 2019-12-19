@@ -22,6 +22,6 @@ class School
   end
   
   def sort
-     @school(sort)
+     @school
   end
 end
