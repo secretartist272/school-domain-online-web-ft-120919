@@ -22,4 +22,7 @@ class School
     binding.pry
   end
   
+  def sort(number)
+    
+  end
 end
