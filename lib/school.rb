@@ -22,7 +22,7 @@ class School
   end
   
   def sort
-    @school_name.each do |key, value|
+    @school_name.each do |grade, student_name|
       value.sort!
     end
 end
