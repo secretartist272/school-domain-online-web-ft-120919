@@ -23,6 +23,5 @@ class School
   
   def sort(number)
      @school_name(number)
-     binding.pry
   end
 end
