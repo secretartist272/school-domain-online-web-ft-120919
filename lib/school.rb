@@ -22,6 +22,6 @@ class School
   end
   
   def sort(number)
-     @school_name = sort
+     @roster(number)
   end
 end
