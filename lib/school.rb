@@ -22,6 +22,7 @@ class School
   end
   
   def sort(number)
-     @school_name
+     @school_name(number)
+     binding.pry
   end
 end
